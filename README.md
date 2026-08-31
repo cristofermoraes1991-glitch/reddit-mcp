@@ -17,3 +17,4 @@ This project is designed for Vercel/Next.js and exposes the MCP endpoint at:
 No Reddit API key is required. It uses public RSS/Atom feeds. Reddit may rate-limit unauthenticated RSS requests, so availability is not guaranteed.
 
 The server is read-only: it cannot post, vote, message users, or access private Reddit data.
+Reddit MCP server.
